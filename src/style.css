@@ -21,7 +21,7 @@ h1 {
 
 .date-container{
     display: flex;
-    color: white;
+    color: rgba(255, 255, 255, 0.712);
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
