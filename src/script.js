@@ -1,4 +1,4 @@
-const newYearDate = '1 Jan 2023';
+const newYearDate = '1 Jan 2024';
 
 function format(val){
     if(val < 10){
